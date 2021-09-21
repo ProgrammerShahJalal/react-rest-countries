@@ -1,0 +1,9 @@
+.country{
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 25px;
+}
+.country img{
+    max-width: 200px;
+}
